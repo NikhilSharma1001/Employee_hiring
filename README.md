@@ -11,4 +11,7 @@ This tour explores the Employee Hiring and History built-in sample in the Power 
 # Requirements
 Powerbi
 
+# Snap-Shot
+![image](https://github.com/user-attachments/assets/290a42e9-f250-4d16-8319-8677f4f83a7c)
+
 
